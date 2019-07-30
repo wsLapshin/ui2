@@ -1,0 +1,344 @@
+    @media screen and (max-width: 1400px) {
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 1.075em;
+        }
+        .block01__col3 {
+            width: 20%;
+        }
+        .block01__col2 {
+            width: 55%;
+        }
+    }
+    
+    @media screen and (max-width: 1200px) {
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 1.075em;
+        }
+        .container {
+            max-width: 75vw;
+        }
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 1.375em;
+        }
+        .block01__nav,
+        .block01__city {
+            padding: 2.9vw 0 0;
+        }
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 1.575em;
+        }
+        .block03__table td,
+        .block03__table th a {
+            font-size: 1.725em;
+        }
+        .block05__text3 {
+            font-size: 1.725em;
+        }
+        .block05__text2 {
+            font-size: 3em;
+        }
+        .input-text,
+        .input-radio+label,
+        .input-checkbox+label,
+        .input-file+label,
+        .button1 {
+            font-size: 2em;
+        }
+        .input-checkbox+label,
+        .input-radio+label {
+            padding-left: 2.1vw;
+        }
+        .input-checkbox+label:before,
+        .input-radio+label:before {
+            top: .8rem;
+        }
+    }
+    
+    @media screen and (max-width: 900px) {
+        .container {
+            max-width: 95%;
+        }
+        .block01__h1 {
+            font-size: 8em;
+        }
+        .block01__h2 {
+            font-size: 5.425em;
+        }
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 2em;
+        }
+        .block02__text1 {
+            font-size: 4.5em;
+        }
+        .header {
+            font-size: 5em;
+        }
+        .block05__text2 {
+            font-size: 4.5em;
+        }
+        .block05__text3 {
+            font-size: 3em;
+        }
+        .block04__logo {
+            width: 25vw;
+            height: 25vw;
+        }
+        .button1 {
+            border-radius: 1vw;
+        }
+        .block02__info
+        {
+            top: -35rem;
+        }
+    }
+    
+    @media screen and (max-width: 800px) {
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 2.2em;
+        }
+        .block03__table td,
+        .block03__table th a {
+            font-size: 2.3em;
+        }
+        .block07 svg {
+            width: 6.5vw;
+        }
+        .to_top svg {
+            height: 4em;
+            width: 4em;
+        }
+        .to_top {
+            padding: 2em;
+        }
+        .input-plus,
+        .input-minus {
+            font-size: 4em;
+        }
+        .block02__text3 {
+            font-size: 3em;
+        }
+    }
+    
+    @media screen and (max-width: 600px) {
+        .menu-burger {
+            position: relative;
+            display: block;
+            width: 25px;
+            height: 20px;
+            cursor: pointer;
+            margin: 22px 0 0;
+        }
+        .block01__city {
+            padding: 22px 0 0;
+        }
+        .menu-burger span,
+        .menu-burger:after,
+        .menu-burger:before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            background: #fff;
+            height: 2px;
+            display: block;
+        }
+        .menu-burger:after {
+            bottom: 0;
+        }
+        .menu-burger:before {
+            top: 0;
+        }
+        .menu-burger span {
+            top: 50%;
+            margin-top: -1px;
+        }
+        .menu-wrap {
+            position: fixed;
+            display: none;
+            background: #fff;
+            box-shadow: 0 0 10px 0 rgba(0, 0, 0, .4);
+            left: 0;
+            top: 0;
+            bottom: 0;
+            z-index: 100;
+        }
+        .block01__nav li {
+            padding: 5px 20px;
+            margin: 0;
+            display: block;
+            text-align: left;
+        }
+        .block01__nav li+li {
+            margin-left: 0;
+        }
+        .block01__nav a {
+            color: #333333;
+        }
+        .block01__nav ul {
+            padding-right: 10vw;
+        }
+        .block01__row>div.block01__col3 {
+            float: none;
+            width: 100%;
+        }
+        .block01__col1 {
+            width: auto;
+        }
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 3.5em;
+        }
+        .menu-close {
+            display: block;
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            cursor: pointer;
+            background: url("../img/mn_close.svg") no-repeat center / contain;
+            height: 15px;
+            width: 15px;
+        }
+        .block01__col2 {
+            width: auto;
+        }
+        .block01__col3 {
+            width: 60%;
+        }
+        .header {
+            font-size: 8em;
+            margin: 0 0 10rem;
+        }
+        .block02__text1 {
+            font-size: 8em;
+        }
+        .block02__info {
+            position: static;
+            width: 100%;
+            margin: 0 0 10rem;
+        }
+        .block01 {
+            min-height: 0
+        }
+        .block02__plus {
+            flex: 0 1 100%;
+        }
+        .block02__plus+.block02__plus {
+            margin: 6rem 0 0;
+        }
+        .block02__pluses {
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .block02__text3 {
+            font-size: 6em;
+        }
+        .block04__logo {
+            width: 41vw;
+            height: 41vw;
+        }
+        .block04__text-wrap {
+            width: 100%;
+        }
+        .input-text,
+        .input-radio+label,
+        .input-checkbox+label,
+        .input-file+label,
+        .button1 {
+            font-size: 4em;
+        }
+        .modal__form {
+            max-width: 100%;
+        }
+        .input-checkbox+label,
+        .input-radio+label {
+            padding-left: 4.1vw;
+            padding-top: .1em;
+        }
+        .input-wrap {
+            margin: 0px 0 3rem;
+        }
+        .block04 {
+            padding: 46rem 0 18rem;
+        }
+        .block04__logo {
+            top: -46rem;
+        }
+        .block03__table td,
+        .block03__table th a {
+            font-size: 3.3em;
+            white-space: nowrap;
+        }
+        .block03__table-wrap {
+            overflow: auto;
+        }
+        .block01__main {
+            padding: 15rem 0 35rem;
+        }
+        .block05__linls a {
+            font-size: 4em;
+        }
+        .block05__text1 {
+            max-width: 100%;
+        }
+    }
+    
+    @media screen and (max-width: 450px) {
+        .simple-text,
+        .block01__nav a,
+        .block01__city {
+            font-size: 5.5em;
+        }
+        .block01__h1 {
+            font-size: 10em;
+        }
+        .block01__h2 {
+            font-size: 6em;
+        }
+        .block01:after {
+            height: 130px;
+        }
+        .block01__col1 img {
+            width: 130px;
+        }
+        .menu-burger {
+            margin: 15px 0 0;
+        }
+        .block01__city {
+            padding: 15px 0 0;
+        }
+        .block03__table {
+            border-radius: 7px;
+        }
+        .block03__table td,
+        .block03__table th a {
+            font-size: 5.3em;
+        }
+        .block03__table td,
+        .block03__table th {
+            padding: 1.2rem 3vw;
+        }
+        .block05__inner {
+            grid-template-columns: 1fr 1fr;
+        }
+        .block05__text2 {
+            font-size: 7em;
+        }
+        .block05__text3 {
+            font-size: 5em;
+        }
+        .block05__linls a {
+            font-size: 7em;
+        }
+    }
