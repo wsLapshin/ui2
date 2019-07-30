@@ -32,7 +32,7 @@
       - [ ] В CA файле продумать вопросы самоконтроля по теме (модуль CHECK)
       - [ ] Прописать необходимые "доделки" и рекомендации к их выполнению в модуле Act - Must (_оцениваемая по итогам курса домашняя работа!_)
       - [ ] Прописать необходимую литературу для самообразования и задачи повышенной сложности в модуле Act - Should
-3. [ ] Предположительное направление обучения в рамках темы и техзадания задано красным шрифтом с пометкой @TODO в PD и CA файлах
+3. [ ] Предположительное направление содержания блоков задано красным шрифтом с пометкой @TODO в PD и CA файлах
 4. [ ] Реализовать программный код в соответствии с техническим заданием 
 ## Подробное описание используемых методологических подходов
 ### PDSA на сайте образовательной компании [skillbox.ru](https://skillbox.ru/media/management/tsikl_deminga/?advcake_params=Cj0KCQjwvdXpBRCoARIsAMJSKqJ9GcPGras_OjE3DwGil1CNwNZUI7Dvlen3_YXHjiyGtoEiQAcDUvAaAkuMEALw_wcB&utm_source=advcake&utm_medium=cpa&utm_campaign=admitad&utm_content=624938&gclid=Cj0KCQjwvdXpBRCoARIsAMJSKqJ9GcPGras_OjE3DwGil1CNwNZUI7Dvlen3_YXHjiyGtoEiQAcDUvAaAkuMEALw_wcB)
